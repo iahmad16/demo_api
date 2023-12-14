@@ -1,14 +1,14 @@
 {
   "cars": [
-    { "id": 1, "name": "Honda Civic"},
-    { "id": 2, "name": "Toyota Corolla GLI" },
-    { "id": 3, "name": "Toyota Camry 2021" },
-    { "id": 4, "name": "Toyota Fortuner" },
-    { "id": 5, "name": "KIA Elantra 2022" },
-    { "id": 6, "name": "Honda City" },
-    { "id": 7, "name": "Porsche 911" },
-    { "id": 8, "name": "Audi Etron GT" },
-    { "id": 9, "name": "Ford Mustang" }
+    { "id": 1, "name": "Honda Civic", "make": "Honda", "model": "Civic", "subclass": "NA", "year": "2023", "mileage": "100km", "price": "QAR 70,000", "geartype": "Automatic", "fueltype": "Petrol", "seatype": "5", "warranty": "10 years", "warranty_expiry": "10/10/2033", "ext_color": "Silver", "int_color": "Grey", "wheeldrive": "2", "sunroof": "Yes", "import_country": "UAE", "seller-name": "Abdul Aziz", "seller-phone": "+974-12345678"},
+    { "id": 2, "name": "Toyota Corolla GLI", "make": "Toyota", "model": "Civic", "subclass": "NA", "year": "2023", "mileage": "100km", "price": "QAR 70,000", "geartype": "Automatic", "fueltype": "Petrol", "seatype": "5", "warranty": "10 years", "warranty_expiry": "10/10/2033", "ext_color": "Silver", "int_color": "Grey", "wheeldrive": "2", "sunroof": "Yes", "import_country": "UAE", "seller-name": "Ahmad Faisal", "seller-phone": "+974-79403029"},
+    { "id": 3, "name": "Toyota Camry 2021", "make": "Toyota", "model": "Civic", "subclass": "NA", "year": "2023", "mileage": "100km", "price": "QAR 70,000", "geartype": "Automatic", "fueltype": "Petrol", "seatype": "5", "warranty": "10 years", "warranty_expiry": "10/10/2033", "ext_color": "Silver", "int_color": "Grey", "wheeldrive": "2", "sunroof": "Yes", "import_country": "UAE", "seller-name": "Imaaz Ahmad", "seller-phone": "+974-57893033"},
+    { "id": 4, "name": "Toyota Fortuner", "make": "Honda", "model": "Civic", "subclass": "NA", "year": "2023", "mileage": "100km", "price": "QAR 70,000", "geartype": "Automatic", "fueltype": "Petrol", "seatype": "5", "warranty": "10 years", "warranty_expiry": "10/10/2033", "ext_color": "Silver", "int_color": "Grey", "wheeldrive": "2", "sunroof": "Yes", "import_country": "UAE", "seller-name": "Javiad Alam", "seller-phone": "+974-12233444"},
+    { "id": 5, "name": "KIA Elantra 2022", "make": "Honda", "model": "Civic", "subclass": "NA", "year": "2023", "mileage": "100km", "price": "QAR 70,000", "geartype": "Automatic", "fueltype": "Petrol", "seatype": "5", "warranty": "10 years", "warranty_expiry": "10/10/2033", "ext_color": "Silver", "int_color": "Grey", "wheeldrive": "2", "sunroof": "Yes", "import_country": "UAE", "seller-name": "Shakeel Mushtaq", "seller-phone": "+974-99887711"},
+    { "id": 6, "name": "Honda City", "make": "Honda", "model": "Civic", "subclass": "NA", "year": "2023", "mileage": "100km", "price": "QAR 70,000", "geartype": "Automatic", "fueltype": "Petrol", "seatype": "5", "warranty": "10 years", "warranty_expiry": "10/10/2033", "ext_color": "Silver", "int_color": "Grey", "wheeldrive": "2", "sunroof": "Yes", "import_country": "UAE", "seller-name": "Abdul Aziz", "seller-phone": "+974-12345678"},
+    { "id": 7, "name": "Porsche 911", "make": "Honda", "model": "Civic", "subclass": "NA", "year": "2023", "mileage": "100km", "price": "QAR 70,000", "geartype": "Automatic", "fueltype": "Petrol", "seatype": "5", "warranty": "10 years", "warranty_expiry": "10/10/2033", "ext_color": "Silver", "int_color": "Grey", "wheeldrive": "2", "sunroof": "Yes", "import_country": "UAE", "seller-name": "Abdul Aziz", "seller-phone": "+974-12345678"},
+    { "id": 8, "name": "Audi Etron GT", "make": "Honda", "model": "Civic", "subclass": "NA", "year": "2023", "mileage": "100km", "price": "QAR 70,000", "geartype": "Automatic", "fueltype": "Petrol", "seatype": "5", "warranty": "10 years", "warranty_expiry": "10/10/2033", "ext_color": "Silver", "int_color": "Grey", "wheeldrive": "2", "sunroof": "Yes", "import_country": "UAE", "seller-name": "Abdul Aziz", "seller-phone": "+974-12345678"},
+    { "id": 9, "name": "Ford Mustang", "make": "Honda", "model": "Civic", "subclass": "NA", "year": "2023", "mileage": "100km", "price": "QAR 70,000", "geartype": "Automatic", "fueltype": "Petrol", "seatype": "5", "warranty": "10 years", "warranty_expiry": "10/10/2033", "ext_color": "Silver", "int_color": "Grey", "wheeldrive": "2", "sunroof": "Yes", "import_country": "UAE", "seller-name": "Abdul Aziz", "seller-phone": "+974-12345678"}
   ],
   "shops": [
     { "id": 1, "name": "QA Tires"},
