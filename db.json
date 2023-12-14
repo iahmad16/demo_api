@@ -1,0 +1,23 @@
+{
+  "cars": [
+    { "id": 1, "name": "Honda Civic"},
+    { "id": 2, "name": "Toyota Corolla GLI" },
+    { "id": 3, "name": "Toyota Camry 2021" },
+    { "id": 4, "name": "Toyota Fortuner" },
+    { "id": 5, "name": "KIA Elantra 2022" },
+    { "id": 6, "name": "Honda City" },
+    { "id": 7, "name": "Ford Mustang" }
+  ],
+  "shops": [
+    { "id": 1, "name": "QA Tires"},
+    { "id": 2, "name": "Khan Electrics"},
+    { "id": 3, "name": "QA Petrol"},
+    { "id": 4, "name": "QA Petrol"},
+    { "id": 5, "name": "QA Petrol"},
+    { "id": 6, "name": "QA Petrol"}, 
+    { "id": 7, "name": "QA Petrol"},
+    { "id": 8, "name": "QA Petrol"},
+    { "id": 9, "name": "QA Petrol"},
+    { "id": 10, "name": "QA Petrol"}
+  ]
+}
