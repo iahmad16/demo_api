@@ -6,7 +6,9 @@
     { "id": 4, "name": "Toyota Fortuner" },
     { "id": 5, "name": "KIA Elantra 2022" },
     { "id": 6, "name": "Honda City" },
-    { "id": 7, "name": "Ford Mustang" }
+    { "id": 7, "name": "Porsche 911" },
+    { "id": 8, "name": "Audi Etron GT" },
+    { "id": 9, "name": "Ford Mustang" }
   ],
   "shops": [
     { "id": 1, "name": "QA Tires"},
